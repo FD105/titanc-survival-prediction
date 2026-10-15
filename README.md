@@ -1,7 +1,6 @@
 # Titanic Survival Prediction Using Machine Learning
 
 ---
-
 Dieses Repo behandelt das Titanc-Dataset.
 Im Großen und Ganzen finden sich fast überall im Script Beschreibungen, warum etwas umgesetzt wird. 
 Daher gehe ich im Folgenden nur recht knapp auf die einzelnen Abschnitte ein.
